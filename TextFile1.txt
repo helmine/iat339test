@@ -4,5 +4,6 @@ Edit 1 on this file: demo how changing one file works
 
 Edit 2 on TextFile1: add more text
 
-Edit 3: conflict demo HERE
 
+
+Edit 3: conflict demo HERE
