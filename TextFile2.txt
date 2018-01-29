@@ -1,3 +1,1 @@
 This is text file 2. 
-
-Edit on TextFile 2: make some changes in this file. 
