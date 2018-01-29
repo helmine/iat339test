@@ -3,3 +3,5 @@ This is text file 3.
 Edit TextFile3: these are changes that I am doing to show how branching works. 
 
 Another edit to show how branching works. 
+
+helmine@sfu.ca
